@@ -2,14 +2,11 @@
 
 ## Fonctionnalités Déjà Implémentées
 
-- **Compteur de zombies**
-- **Système d'XP**
-- **Système de niveaux**
+- **Affichage d'un compteur de zombies**
+- **Système et affichage de l'XP**
+- **Système et affichage du niveau**
 - **Scaling par niveau**
 - **Affichage de la vie**
-- **Affichage du niveau**
-- **Affichage de l'XP**
-- **Affichage du compteur de zombies**
 
 ## Idées à Implémenter
 
